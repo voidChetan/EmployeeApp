@@ -1,0 +1,21 @@
+{
+    "data": [
+        {
+            "deptId":1,
+            "deptName":"Sales"
+        },
+        {
+            "deptId":2,
+            "deptName":"Marketing"
+        },
+        {
+            "deptId":3,
+            "deptName":"Admin"
+        },
+        {
+            "deptId":4,
+            "deptName":"RnD"
+        }
+
+    ]
+}
